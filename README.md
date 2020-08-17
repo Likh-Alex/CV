@@ -4,7 +4,8 @@ Mock-up of a simple generalised information of me
 This repo is made for reference for myself
 ## Skills
 Not all skills are actual as they are represented
-My main Skills are : Python3, Flask, HTML5, CSS3
+#
+My main Skills are : Python3, Flask, HTML5, CSS3, Bootstrap4
 
 
 
